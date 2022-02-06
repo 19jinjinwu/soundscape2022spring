@@ -15,3 +15,4 @@ Asset List:
 | Engine accelerating | Freesound |https://freesound.org/people/hantorio/sounds/274910/ (CC BY 3.0: hantorio ) |
 | Radio sliding off table | Freesound | https://freesound.org/people/bennychico11/sounds/44419/ (CC BY 3.0: bennychico11) |
 
+Most sounds, including all of those under the CC By 3.0 License, have been modified for the podcast.
