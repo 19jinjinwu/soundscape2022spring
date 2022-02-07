@@ -18,14 +18,14 @@ I've used Audacity before--recreationally and for a similar class that incorpora
 |Air horn| Duplicate, Reverb, Paulstretch|
 |Stairs| Reverse (ascending only), tempo (increase, 2nd time only)|
 
-In addition to these effects, I used amplify, fade in/out, noise reduction, and the cut tool multiple times throughout the narrative to create a cohesive and smooth transition between audio clips. Many of the effects I had to research online, such as the graphic EQ and filter curve. They had specific settings in order to create a celluar or clearier/scratchier sound (respectively).
+In addition to these effects, I used amplify, fade in/out, noise reduction, and the cut tool multiple times to create a cohesive and smooth transition between audio clips. Many of the effects I researched online, such as the graphic EQ and filter curve. They required specific settings in order to create a celluar or clearier/scratchier sound (respectively).
 
 ![image](https://user-images.githubusercontent.com/71570477/152707227-c212418f-8332-4ba1-99ac-64a2501875ea.png)
 ![image](https://user-images.githubusercontent.com/71570477/152707196-17f5e408-327a-4c81-b706-ff62418fbf70.png)
 
 (Screenshots of work in progress for preview, draft, and final are included in the repo)
 
-I had a pretty clear idea of what I wanted to capture in my audio narrative, and I wanted it to be fairly accurate to my boyfriend's adventure (the dialogue when he is on the ship is nearly 100% true to the original story). In the draft, I added some spanish guitar because I felt like the story ended rather abruptly. My boyfriend enjoys listening to spanish music often, and I thought it would be appropriate to add it in the beginning as well to tie the narrative together.
+I had a pretty clear idea of what I wanted to capture in my audio narrative, and I wanted it to be fairly accurate to my boyfriend's adventure (the dialogue when he is on the ship is nearly 100% true to the original story). In the draft, I added some Spanish guitar tunes because the narrative ended rather abruptly. My boyfriend enjoys listening to Spanish music often, and I thought it would be appropriate to add it in the beginning as well to tie the narrative together.
 
 The feedback from my peers were really helpful because while my draft was complete dialogue-wise, it felt a bit disconnected. 
 
@@ -33,7 +33,7 @@ The feedback from my peers were really helpful because while my draft was comple
 
 ![image](https://user-images.githubusercontent.com/71570477/152707789-0e35639c-3c43-4581-aeb4-c0a6c92f5329.png)
 
-   While I tried encouraging my boyfriend to sound more emotional/dramatic, he has a very monotonous voice and was having trouble influxing his tones throughout the recordings. THerefore, I tried to split up the audio more to allow more dramatic pauses to have the viewers anticipate and not be so bogged down by the dialogue. I also amplified his voice so that the engine noise wouldn't drown the narration. 
+   While I tried encouraging my boyfriend to sound more emotional/dramatic, he has a very monotonous voice and was having trouble changing his tones throughout the recordings. In return, I added more pauses between the narration to allow for a dramatic effect; this is to give the listeners time to anticipate for the next scene and not get bogged down by the dialogue. I also amplified his voice so that the engine noise wouldn't drown the narration. 
 
 ### Feedback 2
 ![image](https://user-images.githubusercontent.com/71570477/152707778-999d03dd-7c28-4fad-b267-25f9256898d1.png)
